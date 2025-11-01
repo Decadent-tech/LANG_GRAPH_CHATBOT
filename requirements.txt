@@ -4,3 +4,8 @@ langgraph
 langchain-openai
 openai
 python-dotenv
+sqlite3
+langchain-core
+langchain-openai
+pydantic
+uuid
