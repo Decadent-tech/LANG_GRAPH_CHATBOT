@@ -9,3 +9,5 @@ langchain-core
 langchain-openai
 pydantic
 uuid
+sqlite-utils
+sqlalchemy
